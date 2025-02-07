@@ -9,48 +9,48 @@
 <table>
 <tr>
  <td align="center">
-<img src="https://skillicons.dev/icons?i=java" alt="Java" /></br>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" /></br></br>
 <p>Java</p>
  </td>
  <td align="center">
-<img src="https://skillicons.dev/icons?i=c#"  alt="C#" /></br>
+<img src="https://skillicons.dev/icons?i=c#"  alt="C#" /></br></br>
 <p>C#</p>
  </td>
   <td align="center">
-<img src="https://skillicons.dev/icons?i=firebase"  alt="FireBase" /></br>
+<img src="https://skillicons.dev/icons?i=firebase"  alt="FireBase" /></br></br>
 <p>Firebase</p>
  </td>
   <td align="center">
-<img src="https://skillicons.dev/icons?i=typescript"  alt="TypeScript" /></br>
+<img src="https://skillicons.dev/icons?i=typescript"  alt="TypeScript" /></br></br>
 <p>TypeScript</p>
     </td>
    <td align="center">
-<img src="https://skillicons.dev/icons?i=react"  alt="React" /></br>
+<img src="https://skillicons.dev/icons?i=react"  alt="React" /></br></br>
 <p>React</p>
  </td>
    <td align="center">
-<img src="https://skillicons.dev/icons?i=javascript"  alt="JavaScript" /></br>
+<img src="https://skillicons.dev/icons?i=javascript"  alt="JavaScript" /></br></br>
 <p>JavaScript</p>
  </td>
   <td align="center">
-<img src="https://skillicons.dev/icons?i=redux"  alt="Redux" /></br>
+<img src="https://skillicons.dev/icons?i=redux"  alt="Redux" /></br></br>
 <p>Redux</p>
  </td>
    <td align="center">
-<img src="https://skillicons.dev/icons?i=css"  alt="Css" /></br>
+<img src="https://skillicons.dev/icons?i=css"  alt="Css" /></br></br>
 <p>Css</p>
  </td>
   <td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap"  alt="bootStrap" /></br>
+<img src="https://skillicons.dev/icons?i=bootstrap"  alt="bootStrap" /></br></br>
 <p>BootStrap</p>
  </td>
  <td align="center">
-<img src="https://skillicons.dev/icons?i=wordpress"  alt="WordPress" /></br>
+<img src="https://skillicons.dev/icons?i=wordpress"  alt="WordPress" /></br></br>
 <p>WordPress</p>
  </td>
 
   <td align="center">
-<img src="https://skillicons.dev/icons?i=github"  alt="GitHub" /></br>
+<img src="https://skillicons.dev/icons?i=github"  alt="GitHub" /></br></br>
 <p>GitHub</p>
   </td>
 </tr>
@@ -61,7 +61,7 @@
 <table>
 <tr>
    <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs"  alt="Node" /></br>
+<img src="https://skillicons.dev/icons?i=nodejs"  alt="Node" /></br></br>
 <p>Node.js</p>
    </td>
 </tr>
@@ -75,9 +75,9 @@
       - Iniciado em 02/2015 e concluído em 12/2016
   </details>
 ## Minha Formação - Técnica 
-  - 🎓 **Tecnico em Informática - Senac**</br>
+  - 🎓 **Tecnico em Informática - Senac**</br></br>
     - Curso: Desenvolvimento de sistemas **(Linguagem C#)**
-    - Curso: Desenvolvimento de **Web sites**</br>
+    - Curso: Desenvolvimento de **Web sites**</br></br>
     <details>
     <summary>Status do Curso</summary>
       - Iniciado em 02/2015 e concluído em 12/2016
