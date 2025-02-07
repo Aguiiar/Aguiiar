@@ -59,19 +59,27 @@
 </tr>
 </table>
 
-## Minha Formação:
+## Minha Formação - Superior
 
-- 🎓 **Análise e Desenvolvimento de Sistemas - FIAP
+- 🎓 **Análise e Desenvolvimento de Sistemas - FIAP**
   <details>
     <summary>Status do Curso</summary>
       - Iniciado em 02/2015 e concluído em 12/2016
   </details>
-
+## Minha Formação - Técnica 
+  - 🎓 **Tecnico em Informática - Senac**</br>
+    - Curso: Desenvolvimento de **Web sites**</br>
+    - Curso: Desenvolvimento de sistemas **(Linguagem C#)**
+    <details>
+    <summary>Status do Curso</summary>
+      - Iniciado em 02/2015 e concluído em 12/2016
+  </details>
+  
+## Meus Cursos 
 - 📖 **Cursos na Origamid**
   - JavaScript - ES6
   - TypeScript
   - React
-  - Redux com React
   - Redux
   - Css Avançado Posicionamento
   - Css Flex
