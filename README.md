@@ -22,7 +22,7 @@
     </td>
    <td>
 <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React" /><br/>
-<p>Redux</p>
+<p>React</p>
  </td>
    <td>
 <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript" /><br/>
