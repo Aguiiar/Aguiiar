@@ -54,7 +54,7 @@
 <p>GitHub</p>
   </td>
   <td align="center">
-<img alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
+<img width="65px" alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
 <p>SQL</p>
  </td>
   <td align="center">
