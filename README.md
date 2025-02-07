@@ -49,13 +49,16 @@
 <img src="https://skillicons.dev/icons?i=github"  width="65px" alt="GitHub" /><br/>
 <p>GitHub</p>
   </td>
+</tr>
+</table>
+<table>
+<tr>
    <td align="center">
 <img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
 <p>C#</p>
  </td>
-</tr>
+ </tr>
 </table>
-
 ### 📚💻Tecnologias que estou estudando:
 
 <table>
