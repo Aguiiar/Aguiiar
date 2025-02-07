@@ -16,10 +16,7 @@
 <img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
 <p>C#</p>
  </td>
-  <td align="center">
-<img src="https://skillicons.dev/icons?i=firebase"  width="65px" alt="FireBase" /><br/>
-<p>Firebase</p>
- </td>
+ 
   <td align="center">
 <img src="https://skillicons.dev/icons?i=typescript"  width="65px" alt="TypeScript" /><br/>
 <p>TypeScript</p>
@@ -44,21 +41,26 @@
 <img src="https://skillicons.dev/icons?i=bootstrap"  width="65px" alt="bootStrap" /><br/>
 <p>BootStrap</p>
  </td>
+  <td align="center">
+<img src="https://skillicons.dev/icons?i=wordpress"  width="65px" alt="WordPress" /><br/>
+<p>WordPress</p>
+ </td>
 </tr>
 </table>
 <table>
 <tr>
- <td align="center">
-<img src="https://skillicons.dev/icons?i=wordpress"  width="65px" alt="WordPress" /><br/>
-<p>WordPress</p>
- </td>
-
   <td align="center">
 <img src="https://skillicons.dev/icons?i=github"  width="65px" alt="GitHub" /><br/>
 <p>GitHub</p>
   </td>
-
- 
+  <td align="center">
+<img alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
+<p>SQL</p>
+ </td>
+  <td align="center">
+<img src="https://skillicons.dev/icons?i=firebase"  width="65px" alt="FireBase" /><br/>
+<p>Firebase</p>
+ </td>
  </tr>
 </table>
 
