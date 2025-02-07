@@ -12,10 +12,6 @@
 <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java" /><br/>
 <p>Java</p>
  </td>
- <td align="center">
-<img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
-<p>C#</p>
- </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=firebase"  width="65px" alt="FireBase" /><br/>
 <p>Firebase</p>
@@ -64,6 +60,10 @@
 <img src="https://skillicons.dev/icons?i=nodejs"  width="65px" alt="Node" /><br/>
 <p>Node.js</p>
    </td>
+ <td align="center">
+<img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
+<p>C#</p>
+ </td>
 </tr>
 </table>
 
