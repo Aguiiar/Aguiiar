@@ -9,49 +9,49 @@
 <table>
 <tr>
  <td align="center">
-<img src="https://skillicons.dev/icons?i=java"  alt="Java" /><br/>
-<p>Java</p>
+<img src="https://skillicons.dev/icons?i=java" width:"50px" alt="Java" /><br/>
+<b>Java</b>
  </td>
  <td align="center">
 <img src="https://skillicons.dev/icons?i=c#"  alt="C#" /><br/>
-<p>C#</p>
+<b>C#</b>
  </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=firebase"  alt="FireBase" /><br/>
-<p>Firebase</p>
+<b>Firebase</b>
  </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=typescript"  alt="TypeScript" /><br/>
-<p>TypeScript</p>
+<b>TypeScript</b>
     </td>
    <td align="center">
 <img src="https://skillicons.dev/icons?i=react"  alt="React" /><br/>
-<p>React</p>
+<b>React</b>
  </td>
    <td align="center">
 <img src="https://skillicons.dev/icons?i=javascript"  alt="JavaScript" /><br/>
-<p>JavaScript</p>
+<b>JavaScript</b>
  </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=redux"  alt="Redux" /><br/>
-<p>Redux</p>
+<b>Redux</b>
  </td>
    <td align="center">
 <img src="https://skillicons.dev/icons?i=css"  alt="Css" /><br/>
-<p>Css</p>
+<b>Css</b>
  </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=bootstrap"  alt="bootStrap" /><br/>
-<p>BootStrap</p>
+<b>BootStrap</b>
  </td>
  <td align="center">
 <img src="https://skillicons.dev/icons?i=wordpress"  alt="WordPress" /><br/>
-<p>WordPress</p>
+<b>WordPress</b>
  </td>
 
   <td align="center">
 <img src="https://skillicons.dev/icons?i=github"  alt="GitHub" /><br/>
-<p>GitHub</p>
+<b>GitHub</b>
   </td>
 </tr>
 </table>
@@ -62,7 +62,7 @@
 <tr>
    <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs"  alt="Node" /><br/>
-<p>Node.js</p>
+<b>Node.js</b>
    </td>
 </tr>
 </table>
