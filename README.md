@@ -37,6 +37,10 @@
 <img src="https://skillicons.dev/icons?i=css" width="65px" alt="Css" /><br/>
 <p>Css</p>
  </td>
+   <td align="center">
+<img src="https://skillicons.dev/icons?i=scss" width="65px" alt="Scss" /><br/>
+<p>Scss</p>
+ </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=bootstrap"  width="65px" alt="bootStrap" /><br/>
 <p>BootStrap</p>
