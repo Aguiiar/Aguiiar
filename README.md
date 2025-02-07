@@ -9,7 +9,7 @@
 <table>
 <tr>
  <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width:"50px" alt="Java" /><br/>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" /><br/>
 <b>Java</b>
  </td>
  <td align="center">
