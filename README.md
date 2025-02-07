@@ -9,48 +9,48 @@
 <table>
 <tr>
    <td>
-<img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java" /><br/>
+<img src="https://skillicons.dev/icons?i=java"  alt="Java" /><br/>
 <p>Java</p>
  </td>
    <td>
-<img src="https://skillicons.dev/icons?i=c#" width="65px" alt="C#" /><br/>
+<img src="https://skillicons.dev/icons?i=c#"  alt="C#" /><br/>
 <p>C#</p>
  </td>
   <td>
-<img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="FireBase" /><br/>
+<img src="https://skillicons.dev/icons?i=firebase"  alt="FireBase" /><br/>
 <p>Firebase</p>
  </td>
   <td>
-<img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript" /><br/>
+<img src="https://skillicons.dev/icons?i=typescript"  alt="TypeScript" /><br/>
 <p>TypeScript</p>
     </td>
    <td>
-<img src="https://skillicons.dev/icons?i=react" width="65px" alt="React" /><br/>
+<img src="https://skillicons.dev/icons?i=react"  alt="React" /><br/>
 <p>React</p>
  </td>
    <td>
-<img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript" /><br/>
+<img src="https://skillicons.dev/icons?i=javascript"  alt="JavaScript" /><br/>
 <p>JavaScript</p>
  </td>
   <td>
-<img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux" /><br/>
+<img src="https://skillicons.dev/icons?i=redux"  alt="Redux" /><br/>
 <p>Redux</p>
  </td>
    <td>
-<img src="https://skillicons.dev/icons?i=css" width="65px" alt="Css" /><br/>
+<img src="https://skillicons.dev/icons?i=css"  alt="Css" /><br/>
 <p>Css</p>
  </td>
   <td>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootStrap" /><br/>
+<img src="https://skillicons.dev/icons?i=bootstrap"  alt="bootStrap" /><br/>
 <p>BootStrap</p>
  </td>
  <td>
-<img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="WordPress" /><br/>
+<img src="https://skillicons.dev/icons?i=wordpress"  alt="WordPress" /><br/>
 <p>WordPress</p>
  </td>
 
   <td>
-<img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub" /><br/>
+<img src="https://skillicons.dev/icons?i=github"  alt="GitHub" /><br/>
 <p>GitHub</p>
     </td>
 </tr>
@@ -61,7 +61,7 @@
 <table>
 <tr>
    <td>
-<img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs"  alt="Node" /><br/>
 <p>Node.js</p>
    </td>
 </tr>
