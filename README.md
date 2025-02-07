@@ -68,8 +68,8 @@
   </details>
 ## Minha Formação - Técnica 
   - 🎓 **Tecnico em Informática - Senac**</br>
-    - Curso: Desenvolvimento de **Web sites**</br>
     - Curso: Desenvolvimento de sistemas **(Linguagem C#)**
+    - Curso: Desenvolvimento de **Web sites**</br>
     <details>
     <summary>Status do Curso</summary>
       - Iniciado em 02/2015 e concluído em 12/2016
