@@ -9,49 +9,49 @@
 <table>
 <tr>
  <td align="center">
-<img src="https://skillicons.dev/icons?i=java" alt="Java" /><br/>
-<b>Java</b>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" />
+<p>Java</p>
  </td>
  <td align="center">
-<img src="https://skillicons.dev/icons?i=c#"  alt="C#" /><br/>
-<b>C#</b>
+<img src="https://skillicons.dev/icons?i=c#"  alt="C#" />
+<p>C#</p>
  </td>
   <td align="center">
-<img src="https://skillicons.dev/icons?i=firebase"  alt="FireBase" /><br/>
-<b>Firebase</b>
+<img src="https://skillicons.dev/icons?i=firebase"  alt="FireBase" />
+<p>Firebase</p>
  </td>
   <td align="center">
-<img src="https://skillicons.dev/icons?i=typescript"  alt="TypeScript" /><br/>
-<b>TypeScript</b>
+<img src="https://skillicons.dev/icons?i=typescript"  alt="TypeScript" />
+<p>TypeScript</p>
     </td>
    <td align="center">
-<img src="https://skillicons.dev/icons?i=react"  alt="React" /><br/>
-<b>React</b>
+<img src="https://skillicons.dev/icons?i=react"  alt="React" />
+<p>React</p>
  </td>
    <td align="center">
-<img src="https://skillicons.dev/icons?i=javascript"  alt="JavaScript" /><br/>
-<b>JavaScript</b>
+<img src="https://skillicons.dev/icons?i=javascript"  alt="JavaScript" />
+<p>JavaScript</p>
  </td>
   <td align="center">
-<img src="https://skillicons.dev/icons?i=redux"  alt="Redux" /><br/>
-<b>Redux</b>
+<img src="https://skillicons.dev/icons?i=redux"  alt="Redux" />
+<p>Redux</p>
  </td>
    <td align="center">
-<img src="https://skillicons.dev/icons?i=css"  alt="Css" /><br/>
-<b>Css</b>
+<img src="https://skillicons.dev/icons?i=css"  alt="Css" />
+<p>Css</p>
  </td>
   <td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap"  alt="bootStrap" /><br/>
-<b>BootStrap</b>
+<img src="https://skillicons.dev/icons?i=bootstrap"  alt="bootStrap" />
+<p>BootStrap</p>
  </td>
  <td align="center">
-<img src="https://skillicons.dev/icons?i=wordpress"  alt="WordPress" /><br/>
-<b>WordPress</b>
+<img src="https://skillicons.dev/icons?i=wordpress"  alt="WordPress" />
+<p>WordPress</p>
  </td>
 
   <td align="center">
-<img src="https://skillicons.dev/icons?i=github"  alt="GitHub" /><br/>
-<b>GitHub</b>
+<img src="https://skillicons.dev/icons?i=github"  alt="GitHub" />
+<p>GitHub</p>
   </td>
 </tr>
 </table>
@@ -61,8 +61,8 @@
 <table>
 <tr>
    <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs"  alt="Node" /><br/>
-<b>Node.js</b>
+<img src="https://skillicons.dev/icons?i=nodejs"  alt="Node" />
+<p>Node.js</p>
    </td>
 </tr>
 </table>
