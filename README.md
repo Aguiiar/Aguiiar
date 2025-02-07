@@ -12,6 +12,10 @@
 <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java" /><br/>
 <p>Java</p>
  </td>
+   <td>
+<img src="https://skillicons.dev/icons?i=c#" width="65px" alt="C#" /><br/>
+<p>C#</p>
+ </td>
   <td>
 <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript" /><br/>
 <p>TypeScript</p>
