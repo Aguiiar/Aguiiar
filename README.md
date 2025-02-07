@@ -16,6 +16,14 @@
 <img src="https://skillicons.dev/icons?i=c#" width="65px" alt="C#" /><br/>
 <p>C#</p>
  </td>
+    <td>
+<img width="110px" alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
+<p>SQL</p>
+ </td>
+    <td>
+<img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="FireBase" /><br/>
+<p>Firebase</p>
+ </td>
   <td>
 <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript" /><br/>
 <p>TypeScript</p>
