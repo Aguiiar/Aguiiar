@@ -5,7 +5,7 @@
 ### Sou bem detalhista, constantemente procurando a perfeição, programando back-end ou front-end, a harmonia e excelência dos códigos.
 ###### O conhecimento é o caminho para o sucesso!
 
-### ✔️💯 Tecnologias:
+### ✔️💯 Tecnologias que domino:
 <table>
 <tr>
    <td>
