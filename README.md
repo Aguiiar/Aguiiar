@@ -67,12 +67,6 @@
       - Iniciado em 02/2015 e concluído em 12/2016
   </details>
 
-   📚 **Curso Graduação - Bacharelado em Ciência da Computação pelo Centro Universitário de Serviço Nacional de Aprendizagem Comercial (Senac)**
-  <details>
-    <summary>Status da Faculdade</summary>
-      - Primeiro semestre em 2025, noturno
-  </details>
-
 - 📖 **Cursos na Origamid**
   - JavaScript - ES6
   - TypeScript
