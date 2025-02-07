@@ -49,6 +49,10 @@
 <img src="https://skillicons.dev/icons?i=github"  width="65px" alt="GitHub" /><br/>
 <p>GitHub</p>
   </td>
+   <td align="center">
+<img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
+<p>C#</p>
+ </td>
 </tr>
 </table>
 
@@ -60,10 +64,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs"  width="65px" alt="Node" /><br/>
 <p>Node.js</p>
    </td>
- <td align="center">
-<img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
-<p>C#</p>
- </td>
 </tr>
 </table>
 
