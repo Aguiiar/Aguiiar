@@ -8,11 +8,11 @@
 ### ✔️💯 Tecnologias que domino:
 <table>
 <tr>
-   <td align="center">
+ <td align="center">
 <img src="https://skillicons.dev/icons?i=java"  alt="Java" /><br/>
 <p>Java</p>
  </td>
-   <td align="center">
+ <td align="center">
 <img src="https://skillicons.dev/icons?i=c#"  alt="C#" /><br/>
 <p>C#</p>
  </td>
