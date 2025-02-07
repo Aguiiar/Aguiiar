@@ -59,6 +59,7 @@
  </td>
  </tr>
 </table>
+
 ### 📚💻Tecnologias que estou estudando:
 
 <table>
