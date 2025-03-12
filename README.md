@@ -2,21 +2,12 @@
 
 # Guilherme Fernandes de Aguiar
 ## Apaixonado por tecnologia desde criança, tenho prazer em solucionar problemas e resolver desafios. Estou sempre em constante evolução, buscando novos conhecimentos para me aperfeiçoar cada vez mais.
-### Sou detalhista e estou constantemente em busca da perfeição, programando tanto em back-end quanto em front-end, sempre buscando a harmonia e a excelência nos códigos.
+### Sou detalhista e estou constantemente em busca da perfeição, programando em front-end, sempre buscando a harmonia e a excelência nos códigos.
 ###### O conhecimento é o caminho para o sucesso!
 
 ### ✔️💯 Tecnologias que domino:
 <table>
 <tr>
- <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java" /><br/>
-<p>Java</p>
- </td>
-  <td align="center">
-<img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
-<p>C#</p>
- </td>
- 
   <td align="center">
 <img src="https://skillicons.dev/icons?i=typescript"  width="65px" alt="TypeScript" /><br/>
 <p>TypeScript</p>
