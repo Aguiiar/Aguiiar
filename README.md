@@ -96,7 +96,7 @@
   - Css Flex
   - Css Grid
   - BootStrap
-  - Scss
+  - Sass
   - WordPress Rest Api
 - **Inglês básico ** – Estudei um período de 2 anos na Wizard
 
