@@ -42,7 +42,7 @@
 <tr>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=scss" width="65px" alt="Scss" /><br/>
-<p>Scss</p>
+<p>Sass</p>
  </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=github"  width="65px" alt="GitHub" /><br/>
