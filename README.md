@@ -30,7 +30,7 @@
  </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=bootstrap"  width="65px" alt="bootStrap" /><br/>
-<p>BootStrap</p>
+<p>Bootstrap</p>
  </td>
   <td align="center">
 <img src="https://skillicons.dev/icons?i=wordpress"  width="65px" alt="WordPress" /><br/>
