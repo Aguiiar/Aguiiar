@@ -66,15 +66,8 @@
 </table>
 
 ### 📚💻Tecnologias que estou estudando:
-
-- ⚛️ **React Native**
 - 🚀 **Node.js**
-- 🐍 **Python**
-- ☁️ **AWS**
-- 🐳 **Docker**
-- 📊 **SQL Server**
-
-## Minha Formação - Superior
+  ## Minha Formação - Superior
 
 - 🎓 **Análise e Desenvolvimento de Sistemas - FIAP**
   <details>
