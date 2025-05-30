@@ -1,5 +1,5 @@
 # Guilherme Fernandes de Aguiar
-## Apaixonado por tecnologia desde criança, tenho prazer em solucionar problemas e resolver desafios. Estou sempre em constante evolução, buscando novos conhecimentos para me aperfeiçoar cada vez mais.
+## Apaixonado por tecnologia, tenho prazer em solucionar problemas e resolver desafios. Estou sempre em constante evolução, buscando novos conhecimentos para me aperfeiçoar cada vez mais.
 ### Sou detalhista e estou constantemente em busca da perfeição, programando tanto em back-end quanto em front-end, sempre buscando a harmonia e a excelência nos códigos.
 ###### O conhecimento é o caminho para o sucesso!
 
