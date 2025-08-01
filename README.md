@@ -52,12 +52,8 @@
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/redux.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Redux" /><br/>
       <p>Redux</p>
     </td>
-  
   </tr>
-
-    </tr>
     </table>
-
 <table>
   <tr>
    <td align="center">
