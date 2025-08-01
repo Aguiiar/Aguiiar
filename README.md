@@ -11,12 +11,28 @@
       <p>Java</p>
     </td>
     <td align="center">
-      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Spring%20Boot.svg" width="65px" alt="spring boot" /><br/>
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Spring%20Boot.svg" width="65px" alt="Spring Boot" /><br/>
       <p>Spring Boot</p>
+    </td>
+ <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" width="65px" alt="Hibernate" /><br/>
+      <p>Hibernate</p>
+    </td>
+     <td align="center">
+      <img src="" width="65px" alt="Maven" /><br/>
+      <p>Maven</p>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
       <p>C#</p>
+    </td>
+ <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="65px" alt=".NET" /><br/>
+      <p>.NET</p>
+    </td>
+     <td align="center">
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Blazor.svg" width="65px" alt="Blazor" /><br/>
+      <p>Blazor</p>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=typescript"  width="65px" alt="TypeScript" /><br/>
@@ -62,6 +78,10 @@
       <img width="65px" alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
       <p>SQL</p>
     </td>
+    <td align="center">
+      <img width="65px" alt="MySQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/MySQL.svg"><br/>
+      <p>MySQL</p>
+    </td>
 <td align="center">
       <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg"  width="65px" alt="postgresql" /><br/>
       <p>Postgresql</p>
@@ -73,6 +93,14 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=firebase"  width="65px" alt="FireBase" /><br/>
       <p>Firebase</p>
+    </td>
+     <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  width="65px" alt="Git" /><br/>
+      <p>Git</p>
+    </td>
+     <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  width="65px" alt="GitHub" /><br/>
+      <p>GitHub</p>
     </td>
   </tr>
 </table>
