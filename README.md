@@ -10,10 +10,11 @@
   <tr>
     <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/java.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Java" /><br/>
+     <p>Java</p>
     </td>
     <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/spring_boot.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Spring Boot" /><br/>
-      <p>Spring</p>
+      <p>Spring Boot</p>
     </td>
     <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/hibernate.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Hibernate" /><br/>
