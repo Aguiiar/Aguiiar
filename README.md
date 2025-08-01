@@ -11,7 +11,7 @@
       <p>Java</p>
     </td>
     <td align="center">
-      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Spring%20Boot.svg" width="65px" alt="Spring Boot" /><br/>
+      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/blob/main/Light/Spring%20Boot.svg" width="65px" alt="Spring Boot" /><br/>
       <p>Spring</p>
     </td>
  <td align="center">
