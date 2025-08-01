@@ -7,19 +7,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" height="65px" alt="Java" /><br/>
+      <img src="https://skillicons.dev/icons?i=java" width="48px" height="65px" alt="Java" /><br/>
       <p>Java</p>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Spring%20Boot.svg" width="65px"  alt="Spring Boot" /><br/>
+      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Spring%20Boot.svg" width="48px"  alt="Spring Boot" /><br/>
       <p>Spring</p>
     </td>
  <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" width="65px"  alt="Hibernate" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" width="48px"  alt="Hibernate" /><br/>
       <p>Hibernate</p>
     </td>
      <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" width="65px" alt="Maven" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" width="48px" alt="Maven" /><br/>
       <p>Maven</p>
     </td>
     <td align="center">
@@ -27,11 +27,11 @@
       <p>C#</p>
     </td>
  <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" width="65px" alt=".NET" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" width="48px" alt=".NET" /><br/>
       <p>.NET</p>
     </td>
      <td align="center">
-      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Blazor.svg" width="65px" alt="Blazor" /><br/>
+      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Blazor.svg" width="48px" alt="Blazor" /><br/>
       <p>Blazor</p>
     </td>
     <td align="center">
