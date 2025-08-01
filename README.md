@@ -19,7 +19,7 @@
       <p>Hibernate</p>
     </td>
      <td align="center">
-      <img src="" width="65px" alt="Maven" /><br/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="65px" alt="Maven" /><br/>
       <p>Maven</p>
     </td>
     <td align="center">
