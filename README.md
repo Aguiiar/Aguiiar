@@ -12,7 +12,7 @@
     </td>
     <td align="center">
       <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Spring%20Boot.svg" width="65px" alt="Spring Boot" /><br/>
-      <p>Spring Boot</p>
+      <p>Spring</p>
     </td>
  <td align="center">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" width="65px" alt="Hibernate" /><br/>
