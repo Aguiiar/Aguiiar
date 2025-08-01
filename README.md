@@ -51,18 +51,18 @@
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/redux.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Redux" /><br/>
       <p>Redux</p>
     </td>
-    
-    <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="CSS" /><br/>
-      <p>CSS</p>
-    </td>
+  
   </tr>
 
     </tr>
     </table>
-   
+
 <table>
   <tr>
+   <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="CSS" /><br/>
+      <p>CSS</p>
+    </td>
    <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="BootStrap" /><br/>
       <p>BootStrap</p>
@@ -105,6 +105,7 @@
     </td>
   </tr>
 </table>
+
 
 ### 📚💻Tecnologias que estou estudando:
 - 🚀 **Node.js**
