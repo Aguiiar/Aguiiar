@@ -33,10 +33,6 @@
       <p>.NET</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/blazor.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Blazor" /><br/>
-      <p>Blazor</p>
-    </td>
-    <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/typescript.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="TypeScript" /><br/>
       <p>TypeScript</p>
     </td>
@@ -52,13 +48,17 @@
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/redux.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Redux" /><br/>
       <p>Redux</p>
     </td>
+    <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="CSS" /><br/>
+      <p>CSS</p>
+    </td>
   </tr>
     </table>
 <table>
   <tr>
-   <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="CSS" /><br/>
-      <p>CSS</p>
+    <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/tailwind_css.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Tailwind CSS" /><br/>
+      <p>Tailwind CSS</p>
     </td>
    <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="BootStrap" /><br/>
