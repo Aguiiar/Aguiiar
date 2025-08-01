@@ -95,10 +95,6 @@
       <p>Firebase</p>
     </td>
      <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  width="65px" alt="Git" /><br/>
-      <p>Git</p>
-    </td>
-     <td align="center">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  width="65px" alt="GitHub" /><br/>
       <p>GitHub</p>
     </td>
