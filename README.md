@@ -7,19 +7,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="52px" alt="Java" /><br/>
+      <img src="https://skillicons.dev/icons?i=java" width="58px" alt="Java" /><br/>
       <p>Java</p>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Spring%20Boot.svg" width="52px"  alt="Spring Boot" /><br/>
+      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Spring%20Boot.svg" width="58px"  alt="Spring Boot" /><br/>
       <p>Spring</p>
     </td>
  <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" width="48px"  alt="Hibernate" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" width="58px"  alt="Hibernate" /><br/>
       <p>Hibernate</p>
     </td>
      <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" width="48px" alt="Maven" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" width="58px" alt="Maven" /><br/>
       <p>Maven</p>
     </td>
     <td align="center">
@@ -27,31 +27,31 @@
       <p>C#</p>
     </td>
  <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" width="48px" alt=".NET" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" width="58px" alt=".NET" /><br/>
       <p>.NET</p>
     </td>
      <td align="center">
-      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Blazor.svg" width="48px" alt="Blazor" /><br/>
+      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Blazor.svg" width="58px" alt="Blazor" /><br/>
       <p>Blazor</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript"  width="48px" alt="TypeScript" /><br/>
+      <img src="https://skillicons.dev/icons?i=typescript"  width="58px" alt="TypeScript" /><br/>
       <p>TypeScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react"  width="48px" alt="React" /><br/>
+      <img src="https://skillicons.dev/icons?i=react"  width="58px" alt="React" /><br/>
       <p>React</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript"  width="48px" alt="JavaScript" /><br/>
+      <img src="https://skillicons.dev/icons?i=javascript"  width="58px" alt="JavaScript" /><br/>
       <p>JavaScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux"  width="48px" alt="Redux" /><br/>
+      <img src="https://skillicons.dev/icons?i=redux"  width="58px" alt="Redux" /><br/>
       <p>Redux</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="48px" alt="Css" /><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="58px" alt="Css" /><br/>
       <p>Css</p>
     </td>
   </tr>
