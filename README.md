@@ -4,106 +4,107 @@
 ###### O conhecimento é o caminho para o sucesso!
 
 ### ✔️💯 Tecnologias que domino:
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="64px" alt="Java" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/java.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Java" /><br/>
       <p>Java</p>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Spring%20Boot.svg" width="64px"  alt="Spring Boot" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/spring_boot.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Spring Boot" /><br/>
       <p>Spring</p>
     </td>
- <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" width="64px"  alt="Hibernate" /><br/>
+    <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/hibernate.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Hibernate" /><br/>
       <p>Hibernate</p>
     </td>
-     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" width="64px" alt="Maven" /><br/>
+    <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/maven.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Maven" /><br/>
       <p>Maven</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c#"  width="64px" alt="C#" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c%23.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="C#" /><br/>
       <p>C#</p>
     </td>
- <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" width="64px" alt=".NET" /><br/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt=".NET" /><br/>
       <p>.NET</p>
     </td>
-     <td align="center">
-      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Blazor.svg" width="64px" alt="Blazor" /><br/>
+    <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/blazor.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Blazor" /><br/>
       <p>Blazor</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript"  width="64px" alt="TypeScript" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/typescript.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="TypeScript" /><br/>
       <p>TypeScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react"  width="64px" alt="React" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/react.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="React" /><br/>
       <p>React</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript"  width="64px" alt="JavaScript" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/javascript.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="JavaScript" /><br/>
       <p>JavaScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux"  width="64px" alt="Redux" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/redux.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Redux" /><br/>
       <p>Redux</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="64px" alt="Css" /><br/>
-      <p>Css</p>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="CSS" /><br/>
+      <p>CSS</p>
     </td>
   </tr>
 </table>
+
+<br/>
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap"  width="64px" alt="bootStrap" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="BootStrap" /><br/>
       <p>BootStrap</p>
     </td>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=wordpress"  width="64px" alt="WordPress" /><br/>
+    <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/wordpress.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="WordPress" /><br/>
       <p>WordPress</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=scss" width="64px" alt="Scss" /><br/>
-      <p>Scss</p>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/sass.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Scss" /><br/>
+      <p>SCSS</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github"  width="64px" alt="GitHub" /><br/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="GitHub" /><br/>
       <p>GitHub</p>
     </td>
     <td align="center">
-      <img width="64px" alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/git.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Git" /><br/>
+      <p>Git</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Oracle SQL" /><br/>
       <p>SQL</p>
     </td>
     <td align="center">
-      <img width="64px" alt="MySQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/MySQL.svg"><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="MySQL" /><br/>
       <p>MySQL</p>
     </td>
-<td align="center">
-      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg"  width="64px" alt="postgresql" /><br/>
-      <p>Postgresql</p>
+    <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/postgresql.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="PostgreSQL" /><br/>
+      <p>PostgreSQL</p>
     </td>
     <td align="center">
-      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/MongoDB.svg"  width="64px" alt="mongoDB" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mongodb.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="MongoDB" /><br/>
       <p>MongoDB</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase"  width="64px" alt="FireBase" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/firebase.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Firebase" /><br/>
       <p>Firebase</p>
-    </td>
-     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  width="64px" alt="GitHub" /><br/>
-      <p>GitHub</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  width="64px" alt="Git" /><br/>
-      <p>Git</p>
     </td>
   </tr>
 </table>
+
 ### 📚💻Tecnologias que estou estudando:
 - 🚀 **Node.js**
   ## Minha Formação - Superior
