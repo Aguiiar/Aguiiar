@@ -70,7 +70,6 @@
       <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/MongoDB.svg"  width="65px" alt="mongoDB" /><br/>
       <p>MongoDB</p>
     </td>
-    
     <td align="center">
       <img src="https://skillicons.dev/icons?i=firebase"  width="65px" alt="FireBase" /><br/>
       <p>Firebase</p>
