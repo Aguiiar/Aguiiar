@@ -7,51 +7,51 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="48px" alt="Java" /><br/>
+      <img src="https://skillicons.dev/icons?i=java" width="64px" alt="Java" /><br/>
       <p>Java</p>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Spring%20Boot.svg" width="48px"  alt="Spring Boot" /><br/>
+      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Spring%20Boot.svg" width="64px"  alt="Spring Boot" /><br/>
       <p>Spring</p>
     </td>
  <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" width="48px"  alt="Hibernate" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" width="64px"  alt="Hibernate" /><br/>
       <p>Hibernate</p>
     </td>
      <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" width="48px" alt="Maven" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg" width="64px" alt="Maven" /><br/>
       <p>Maven</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c#"  width="48px" alt="C#" /><br/>
+      <img src="https://skillicons.dev/icons?i=c#"  width="64px" alt="C#" /><br/>
       <p>C#</p>
     </td>
  <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" width="48px" alt=".NET" /><br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" width="64px" alt=".NET" /><br/>
       <p>.NET</p>
     </td>
      <td align="center">
-      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Blazor.svg" width="48px" alt="Blazor" /><br/>
+      <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Blazor.svg" width="64px" alt="Blazor" /><br/>
       <p>Blazor</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript"  width="48px" alt="TypeScript" /><br/>
+      <img src="https://skillicons.dev/icons?i=typescript"  width="64px" alt="TypeScript" /><br/>
       <p>TypeScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react"  width="48px" alt="React" /><br/>
+      <img src="https://skillicons.dev/icons?i=react"  width="64px" alt="React" /><br/>
       <p>React</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript"  width="48px" alt="JavaScript" /><br/>
+      <img src="https://skillicons.dev/icons?i=javascript"  width="64px" alt="JavaScript" /><br/>
       <p>JavaScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux"  width="48px" alt="Redux" /><br/>
+      <img src="https://skillicons.dev/icons?i=redux"  width="64px" alt="Redux" /><br/>
       <p>Redux</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="48px" alt="Css" /><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="64px" alt="Css" /><br/>
       <p>Css</p>
     </td>
   </tr>
@@ -59,52 +59,51 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap"  width="48px" alt="bootStrap" /><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap"  width="64px" alt="bootStrap" /><br/>
       <p>BootStrap</p>
     </td>
      <td align="center">
-      <img src="https://skillicons.dev/icons?i=wordpress"  width="48px" alt="WordPress" /><br/>
+      <img src="https://skillicons.dev/icons?i=wordpress"  width="64px" alt="WordPress" /><br/>
       <p>WordPress</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=scss" width="48px" alt="Scss" /><br/>
+      <img src="https://skillicons.dev/icons?i=scss" width="64px" alt="Scss" /><br/>
       <p>Scss</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github"  width="48px" alt="GitHub" /><br/>
+      <img src="https://skillicons.dev/icons?i=github"  width="64px" alt="GitHub" /><br/>
       <p>GitHub</p>
     </td>
     <td align="center">
-      <img width="65px" alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
+      <img width="64px" alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
       <p>SQL</p>
     </td>
     <td align="center">
-      <img width="48px" alt="MySQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/MySQL.svg"><br/>
+      <img width="64px" alt="MySQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/MySQL.svg"><br/>
       <p>MySQL</p>
     </td>
 <td align="center">
-      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg"  width="48px" alt="postgresql" /><br/>
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg"  width="64px" alt="postgresql" /><br/>
       <p>Postgresql</p>
     </td>
     <td align="center">
-      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/MongoDB.svg"  width="48px" alt="mongoDB" /><br/>
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/MongoDB.svg"  width="64px" alt="mongoDB" /><br/>
       <p>MongoDB</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase"  width="48px" alt="FireBase" /><br/>
+      <img src="https://skillicons.dev/icons?i=firebase"  width="64px" alt="FireBase" /><br/>
       <p>Firebase</p>
     </td>
      <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  width="48px" alt="GitHub" /><br/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  width="64px" alt="GitHub" /><br/>
       <p>GitHub</p>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  width="48px" alt="Git" /><br/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  width="64px" alt="Git" /><br/>
       <p>Git</p>
     </td>
   </tr>
 </table>
-
 ### 📚💻Tecnologias que estou estudando:
 - 🚀 **Node.js**
   ## Minha Formação - Superior
