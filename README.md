@@ -5,101 +5,102 @@
 
 ### ✔️💯 Tecnologias que domino:
 
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/java.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Java" /><br/>
-      <p>Java</p>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/java.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Java" /><br/>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/spring_boot.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Spring Boot" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/spring_boot.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Spring Boot" /><br/>
       <p>Spring</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/hibernate.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Hibernate" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/hibernate.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Hibernate" /><br/>
       <p>Hibernate</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/maven.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Maven" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/maven.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Maven" /><br/>
       <p>Maven</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c%23.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="C#" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c%23.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="C#" /><br/>
       <p>C#</p>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt=".NET" /><br/>
+  <td align="center">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt=".NET" /><br/>
       <p>.NET</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/blazor.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Blazor" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/blazor.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Blazor" /><br/>
       <p>Blazor</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/typescript.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="TypeScript" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/typescript.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="TypeScript" /><br/>
       <p>TypeScript</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/react.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="React" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/react.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="React" /><br/>
       <p>React</p>
     </td>
-    <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/javascript.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="JavaScript" /><br/>
+     <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/javascript.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="JavaScript" /><br/>
       <p>JavaScript</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/redux.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Redux" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/redux.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Redux" /><br/>
       <p>Redux</p>
     </td>
+    
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="CSS" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="CSS" /><br/>
       <p>CSS</p>
     </td>
   </tr>
-</table>
 
-<br/>
-
+    </tr>
+    </table>
+   
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="BootStrap" /><br/>
+   <td align="center">
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="BootStrap" /><br/>
       <p>BootStrap</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/wordpress.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="WordPress" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/wordpress.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="WordPress" /><br/>
       <p>WordPress</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/sass.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Scss" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/sass.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Scss" /><br/>
       <p>SCSS</p>
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="GitHub" /><br/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="GitHub" /><br/>
       <p>GitHub</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/git.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Git" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/git.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Git" /><br/>
       <p>Git</p>
     </td>
     <td align="center">
-      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Oracle SQL" /><br/>
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Oracle SQL" /><br/>
       <p>SQL</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="MySQL" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="MySQL" /><br/>
       <p>MySQL</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/postgresql.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="PostgreSQL" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/postgresql.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="PostgreSQL" /><br/>
       <p>PostgreSQL</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mongodb.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="MongoDB" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mongodb.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="MongoDB" /><br/>
       <p>MongoDB</p>
     </td>
     <td align="center">
-      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/firebase.png" style="width: 64px; object-fit: contain; display: block; margin: auto;" alt="Firebase" /><br/>
+      <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/firebase.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Firebase" /><br/>
       <p>Firebase</p>
     </td>
   </tr>
