@@ -11,6 +11,10 @@
       <p>Java</p>
     </td>
     <td align="center">
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Spring%20Boot.svg" width="65px" alt="spring boot" /><br/>
+      <p>Spring Boot</p>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=c#"  width="65px" alt="C#" /><br/>
       <p>C#</p>
     </td>
@@ -58,6 +62,15 @@
       <img width="65px" alt="Oracle SQL" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Oracle.svg"><br/>
       <p>SQL</p>
     </td>
+<td align="center">
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg"  width="65px" alt="postgresql" /><br/>
+      <p>Postgresql</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/MongoDB.svg"  width="65px" alt="mongoDB" /><br/>
+      <p>MongoDB</p>
+    </td>
+    
     <td align="center">
       <img src="https://skillicons.dev/icons?i=firebase"  width="65px" alt="FireBase" /><br/>
       <p>Firebase</p>
