@@ -35,23 +35,23 @@
       <p>Blazor</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript"  width="65px" alt="TypeScript" /><br/>
+      <img src="https://skillicons.dev/icons?i=typescript"  width="48px" alt="TypeScript" /><br/>
       <p>TypeScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react"  width="65px" alt="React" /><br/>
+      <img src="https://skillicons.dev/icons?i=react"  width="48px" alt="React" /><br/>
       <p>React</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript"  width="65px" alt="JavaScript" /><br/>
+      <img src="https://skillicons.dev/icons?i=javascript"  width="48px" alt="JavaScript" /><br/>
       <p>JavaScript</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux"  width="65px" alt="Redux" /><br/>
+      <img src="https://skillicons.dev/icons?i=redux"  width="48px" alt="Redux" /><br/>
       <p>Redux</p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="Css" /><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="48px" alt="Css" /><br/>
       <p>Css</p>
     </td>
   </tr>
