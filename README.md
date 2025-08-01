@@ -14,7 +14,7 @@
     </td>
     <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/spring_boot.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Spring Boot" /><br/>
-      <p>Spring Boot</p>
+      <p>Spring </p>
     </td>
     <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/hibernate.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Hibernate" /><br/>
@@ -58,7 +58,7 @@
   <tr>
     <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/tailwind_css.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="Tailwind CSS" /><br/>
-      <p>Tailwind CSS</p>
+      <p>Tailwind</p>
     </td>
    <td align="center">
       <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png" style="width:64px; height:72px object-fit: contain; display: block; margin: auto;" alt="BootStrap" /><br/>
